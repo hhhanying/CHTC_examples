@@ -1,0 +1,7 @@
+[WARN  tini (6)] Tini is not running as PID 1 .
+Zombie processes will not be re-parented to Tini, so zombie reaping won't work.
+To fix the problem, run Tini as PID 1.
+Traceback (most recent call last):
+  File "./script.py", line 6, in <module>
+    print(np.exp(2))
+NameError: name 'np' is not defined

@@ -1,0 +1,108 @@
+Unable to find image 'hanyingj/pymc3-sklearn:latest' locally
+latest: Pulling from hanyingj/pymc3-sklearn
+23884877105a: Pulling fs layer
+bc38caa0f5b9: Pulling fs layer
+2910811b6c42: Pulling fs layer
+36505266dcc6: Pulling fs layer
+7c7b63c8c081: Pulling fs layer
+4590b6ca70f4: Pulling fs layer
+6164b0017070: Pulling fs layer
+9e37625b57c1: Pulling fs layer
+605292fc55ae: Pulling fs layer
+998e0039cb74: Pulling fs layer
+dbaceb237ca6: Pulling fs layer
+d1a9cd1c299e: Pulling fs layer
+5100ff5e8ebb: Pulling fs layer
+94bb066d5eea: Pulling fs layer
+dd043717b506: Pulling fs layer
+5b60bba7ac08: Pulling fs layer
+61a642f52604: Pulling fs layer
+d6882e5b96f1: Pulling fs layer
+5cb4561c6bc6: Pulling fs layer
+9ca97e6a7026: Pulling fs layer
+705998e44bb6: Pulling fs layer
+e22f37ec18aa: Pulling fs layer
+d1a9cd1c299e: Waiting
+5100ff5e8ebb: Waiting
+94bb066d5eea: Waiting
+36505266dcc6: Waiting
+7c7b63c8c081: Waiting
+4590b6ca70f4: Waiting
+dd043717b506: Waiting
+5b60bba7ac08: Waiting
+6164b0017070: Waiting
+61a642f52604: Waiting
+d6882e5b96f1: Waiting
+9e37625b57c1: Waiting
+998e0039cb74: Waiting
+605292fc55ae: Waiting
+dbaceb237ca6: Waiting
+5cb4561c6bc6: Waiting
+e22f37ec18aa: Waiting
+9ca97e6a7026: Waiting
+705998e44bb6: Waiting
+bc38caa0f5b9: Verifying Checksum
+bc38caa0f5b9: Download complete
+2910811b6c42: Verifying Checksum
+2910811b6c42: Download complete
+36505266dcc6: Verifying Checksum
+36505266dcc6: Download complete
+4590b6ca70f4: Verifying Checksum
+4590b6ca70f4: Download complete
+7c7b63c8c081: Verifying Checksum
+7c7b63c8c081: Download complete
+6164b0017070: Verifying Checksum
+6164b0017070: Download complete
+9e37625b57c1: Verifying Checksum
+9e37625b57c1: Download complete
+605292fc55ae: Verifying Checksum
+605292fc55ae: Download complete
+998e0039cb74: Verifying Checksum
+998e0039cb74: Download complete
+23884877105a: Verifying Checksum
+23884877105a: Download complete
+d1a9cd1c299e: Verifying Checksum
+d1a9cd1c299e: Download complete
+94bb066d5eea: Verifying Checksum
+94bb066d5eea: Download complete
+dd043717b506: Download complete
+5b60bba7ac08: Verifying Checksum
+5b60bba7ac08: Download complete
+dbaceb237ca6: Download complete
+5100ff5e8ebb: Verifying Checksum
+5100ff5e8ebb: Download complete
+23884877105a: Pull complete
+bc38caa0f5b9: Pull complete
+2910811b6c42: Pull complete
+36505266dcc6: Pull complete
+7c7b63c8c081: Pull complete
+4590b6ca70f4: Pull complete
+6164b0017070: Pull complete
+9e37625b57c1: Pull complete
+605292fc55ae: Pull complete
+998e0039cb74: Pull complete
+dbaceb237ca6: Pull complete
+d6882e5b96f1: Verifying Checksum
+d6882e5b96f1: Download complete
+d1a9cd1c299e: Pull complete
+9ca97e6a7026: Download complete
+705998e44bb6: Verifying Checksum
+705998e44bb6: Download complete
+61a642f52604: Verifying Checksum
+61a642f52604: Download complete
+e22f37ec18aa: Verifying Checksum
+e22f37ec18aa: Download complete
+5cb4561c6bc6: Verifying Checksum
+5cb4561c6bc6: Download complete
+5100ff5e8ebb: Pull complete
+94bb066d5eea: Pull complete
+dd043717b506: Pull complete
+5b60bba7ac08: Pull complete
+61a642f52604: Pull complete
+d6882e5b96f1: Pull complete
+5cb4561c6bc6: Pull complete
+9ca97e6a7026: Pull complete
+705998e44bb6: Pull complete
+e22f37ec18aa: Pull complete
+Digest: sha256:dcd0704a65b43d0660d9eed793ede59496a816951bd7d9100c35eb4370784cdd
+Status: Downloaded newer image for hanyingj/pymc3-sklearn:latest

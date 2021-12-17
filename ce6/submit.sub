@@ -1,0 +1,19 @@
+universe=docker
+docker_image=hanyingj/pymc3-sklearn
+
+executable=MCMC.sh
+transfer_input_files=script.py, sum.py
+
+# requesting resources
+request_memory=100MB
+request_cpus=1
+request_disk=100MB
+
+# parameters
+environment="id=$(Step)"
+
+# log files
+error=err$(Process).err
+output=out$(Process).out
+log=log$(Process).log
+queue 1

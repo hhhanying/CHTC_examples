@@ -1,0 +1,24 @@
+ce1:
+basic job:
+Run the code in script.py.
+
+ce2:
+sum.py contain function f.
+import f from sum
+then you can use f
+
+ce3:
+import numpy in sum.py
+f requires numpy
+import f from sum
+then you can use f even you didn't import numpy in script.py
+
+ce4:
+can save to another directory. But don't mkdir.
+
+ce5:
+even the package is imported in the imported package. Still need to import it in main if you use it in main.
+
+ce6:
+if you import numpy as np in sum. and import sum in script
+still cannot use np in script

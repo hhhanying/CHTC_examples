@@ -1,0 +1,31 @@
+000 (14493502.000.000) 2021-12-06 17:36:33 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_2665916_368d>
+...
+040 (14493502.000.000) 2021-12-06 17:37:21 Started transferring input files
+	Transferring to host: <128.105.245.40:9618?addrs=128.105.245.40-9618&alias=e3240.chtc.wisc.edu&noUDP&sock=slot1_23_1991_96ea_26230>
+...
+040 (14493502.000.000) 2021-12-06 17:37:21 Finished transferring input files
+...
+001 (14493502.000.000) 2021-12-06 17:37:22 Job executing on host: <128.105.245.40:9618?addrs=128.105.245.40-9618&alias=e3240.chtc.wisc.edu&noUDP&sock=startd_5338_00a2>
+...
+040 (14493502.000.000) 2021-12-06 17:38:15 Started transferring output files
+...
+040 (14493502.000.000) 2021-12-06 17:38:15 Finished transferring output files
+...
+005 (14493502.000.000) 2021-12-06 17:38:16 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	173  -  Run Bytes Sent By Job
+	130  -  Run Bytes Received By Job
+	173  -  Total Bytes Sent By Job
+	130  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.09        1         1 
+	   Disk (KB)            :    25       20480    679407 
+	   IoHeavy              :                           0 
+	   Memory (MB)          :                20        20 
+
+	Job terminated of its own accord at 2021-12-06T23:38:15Z with exit-code 0.
+...
