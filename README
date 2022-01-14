@@ -22,3 +22,6 @@ even the package is imported in the imported package. Still need to import it in
 ce6:
 if you import numpy as np in sum. and import sum in script
 still cannot use np in script
+
+ce7:
+scripts, data... can be in different folder of the .sub and .sh file. 
