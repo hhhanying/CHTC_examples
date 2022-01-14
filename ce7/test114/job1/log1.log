@@ -1,0 +1,34 @@
+000 (14688278.001.000) 2022-01-14 16:48:59 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_3562897_9248>
+...
+009 (14688273.001.000) 2022-01-14 16:49:26 Job was aborted.
+	via condor_rm (by user hjiang252)
+...
+040 (14688278.001.000) 2022-01-14 16:50:02 Started transferring input files
+	Transferring to host: <128.105.245.210:9618?addrs=128.105.245.210-9618&alias=e2410.chtc.wisc.edu&noUDP&sock=slot1_24_11294_6504_40378>
+...
+040 (14688278.001.000) 2022-01-14 16:50:02 Finished transferring input files
+...
+001 (14688278.001.000) 2022-01-14 16:50:04 Job executing on host: <128.105.245.210:9618?addrs=128.105.245.210-9618&alias=e2410.chtc.wisc.edu&noUDP&sock=startd_13121_7e3c>
+...
+040 (14688278.001.000) 2022-01-14 16:54:28 Started transferring output files
+...
+040 (14688278.001.000) 2022-01-14 16:54:29 Finished transferring output files
+...
+005 (14688278.001.000) 2022-01-14 16:54:30 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	3331  -  Run Bytes Sent By Job
+	382  -  Run Bytes Received By Job
+	3331  -  Total Bytes Sent By Job
+	382  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       30   102400    293670 
+	   IoHeavy              :                           0 
+	   Memory (MB)          :               100       128 
+
+	Job terminated of its own accord at 2022-01-14T22:54:27Z with exit-code 0.
+...

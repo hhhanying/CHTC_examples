@@ -1,0 +1,19 @@
+universe=docker
+docker_image=hanyingj/pymc3-sklearn
+
+transfer_input_files=/home/hjiang252/test114/code/script.py, /home/hjiang252/test114/code/sum.py
+executable=job1.sh
+
+# requesting resources
+request_memory=100MB
+request_cpus=1
+request_disk=100MB
+
+# parameters
+environment="id=$(Step)"
+
+# log files
+error= /home/hjiang252/test114/job1/err$(Process).err
+output= /home/hjiang252/test114/job1/out$(Process).out
+log= /home/hjiang252//test114/job1/log$(Process).log
+queue 2
