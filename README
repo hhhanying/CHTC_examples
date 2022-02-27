@@ -25,3 +25,6 @@ still cannot use np in script
 
 ce7:
 scripts, data... can be in different folder of the .sub and .sh file. 
+
+ce8:
+Show how to transfer in a folder and import function from files in the folder.

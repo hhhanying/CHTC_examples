@@ -1,0 +1,19 @@
+universe=docker
+docker_image=hanyingj/pymc3-sklearn
+
+executable=d100.sh
+transfer_input_files= /home/hjiang252/ce8/main.py, /home/hjiang252/ce8/f1
+
+# requesting resources
+request_memory=100MB
+request_cpus=1
+request_disk=5000KB
+
+# parameters
+environment="id=$(Step)"
+
+# log files
+error= /home/hjiang252/ce8/d100/err$(Process).err
+output= /home/hjiang252/ce8/d100/out$(Process).out
+log= /home/hjiang252/ce8/d100/log$(Process).log
+queue 1
